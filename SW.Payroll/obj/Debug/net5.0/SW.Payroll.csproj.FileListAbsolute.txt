@@ -1,0 +1,15 @@
+/home/akrambahy/RiderProjects/Test/SW.Payroll/bin/Debug/net5.0/SW.Payroll.deps.json
+/home/akrambahy/RiderProjects/Test/SW.Payroll/bin/Debug/net5.0/SW.Payroll.runtimeconfig.json
+/home/akrambahy/RiderProjects/Test/SW.Payroll/bin/Debug/net5.0/SW.Payroll.runtimeconfig.dev.json
+/home/akrambahy/RiderProjects/Test/SW.Payroll/bin/Debug/net5.0/SW.Payroll.dll
+/home/akrambahy/RiderProjects/Test/SW.Payroll/bin/Debug/net5.0/SW.Payroll.pdb
+/home/akrambahy/RiderProjects/Test/SW.Payroll/obj/Debug/net5.0/SW.Payroll.csproj.AssemblyReference.cache
+/home/akrambahy/RiderProjects/Test/SW.Payroll/obj/Debug/net5.0/SW.Payroll.GeneratedMSBuildEditorConfig.editorconfig
+/home/akrambahy/RiderProjects/Test/SW.Payroll/obj/Debug/net5.0/SW.Payroll.AssemblyInfoInputs.cache
+/home/akrambahy/RiderProjects/Test/SW.Payroll/obj/Debug/net5.0/SW.Payroll.AssemblyInfo.cs
+/home/akrambahy/RiderProjects/Test/SW.Payroll/obj/Debug/net5.0/SW.Payroll.csproj.CoreCompileInputs.cache
+/home/akrambahy/RiderProjects/Test/SW.Payroll/obj/Debug/net5.0/SW.Payroll.dll
+/home/akrambahy/RiderProjects/Test/SW.Payroll/obj/Debug/net5.0/refint/SW.Payroll.dll
+/home/akrambahy/RiderProjects/Test/SW.Payroll/obj/Debug/net5.0/SW.Payroll.pdb
+/home/akrambahy/RiderProjects/Test/SW.Payroll/obj/Debug/net5.0/SW.Payroll.genruntimeconfig.cache
+/home/akrambahy/RiderProjects/Test/SW.Payroll/obj/Debug/net5.0/ref/SW.Payroll.dll
